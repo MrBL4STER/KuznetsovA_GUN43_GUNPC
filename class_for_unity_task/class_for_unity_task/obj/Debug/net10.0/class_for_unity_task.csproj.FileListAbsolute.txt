@@ -1,0 +1,14 @@
+D:\vs\class_for_unity_task\class_for_unity_task\bin\Debug\net10.0\class_for_unity_task.exe
+D:\vs\class_for_unity_task\class_for_unity_task\bin\Debug\net10.0\class_for_unity_task.deps.json
+D:\vs\class_for_unity_task\class_for_unity_task\bin\Debug\net10.0\class_for_unity_task.runtimeconfig.json
+D:\vs\class_for_unity_task\class_for_unity_task\bin\Debug\net10.0\class_for_unity_task.dll
+D:\vs\class_for_unity_task\class_for_unity_task\bin\Debug\net10.0\class_for_unity_task.pdb
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.AssemblyInfoInputs.cache
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.AssemblyInfo.cs
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.csproj.CoreCompileInputs.cache
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.dll
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\refint\class_for_unity_task.dll
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.pdb
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\class_for_unity_task.genruntimeconfig.cache
+D:\vs\class_for_unity_task\class_for_unity_task\obj\Debug\net10.0\ref\class_for_unity_task.dll
