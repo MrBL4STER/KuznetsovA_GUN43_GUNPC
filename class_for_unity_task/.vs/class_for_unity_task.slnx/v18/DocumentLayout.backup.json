@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\vs\\class_for_unity_task\\",
+  "WorkspaceRootPath": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|d:\\vs\\class_for_unity_task\\class_for_unity_task\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|solutionrelative:class_for_unity_task\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|d:\\vs\\class_for_unity_task\\class_for_unity_task\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|solutionrelative:class_for_unity_task\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|d:\\vs\\class_for_unity_task\\class_for_unity_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|solutionrelative:class_for_unity_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|d:\\vs\\class_for_unity_task\\class_for_unity_task\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2670B174-29AC-465E-A1C4-CFCCFC459450}|class_for_unity_task\\class_for_unity_task.csproj|solutionrelative:class_for_unity_task\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\class_for_unity_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class_for_unity_task\\class_for_unity_task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Interval.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Interval.cs",
+              "RelativeDocumentMoniker": "class_for_unity_task\\Interval.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Interval.cs",
+              "RelativeToolTip": "class_for_unity_task\\Interval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:30:19.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Weapon.cs",
               "RelativeDocumentMoniker": "class_for_unity_task\\Weapon.cs",
-              "ToolTip": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Weapon.cs",
               "RelativeToolTip": "class_for_unity_task\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T16:04:15.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Armor.cs",
-              "DocumentMoniker": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Armor.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Armor.cs",
               "RelativeDocumentMoniker": "class_for_unity_task\\Armor.cs",
-              "ToolTip": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Armor.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Armor.cs",
               "RelativeToolTip": "class_for_unity_task\\Armor.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA0wCcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T15:24:14.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Unit.cs",
-              "DocumentMoniker": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Unit.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Unit.cs",
               "RelativeDocumentMoniker": "class_for_unity_task\\Unit.cs",
-              "ToolTip": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Unit.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Unit.cs",
               "RelativeToolTip": "class_for_unity_task\\Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T15:01:30.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Program.cs",
               "RelativeDocumentMoniker": "class_for_unity_task\\Program.cs",
-              "ToolTip": "D:\\vs\\class_for_unity_task\\class_for_unity_task\\Program.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Program.cs",
               "RelativeToolTip": "class_for_unity_task\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T14:58:37.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Dungeon.cs",
+              "RelativeDocumentMoniker": "class_for_unity_task\\Dungeon.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Dungeon.cs",
+              "RelativeToolTip": "class_for_unity_task\\Dungeon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:32:06.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Room.cs",
+              "RelativeDocumentMoniker": "class_for_unity_task\\Room.cs",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\Room.cs",
+              "RelativeToolTip": "class_for_unity_task\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:32:25.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "class_for_unity_task.csproj",
+              "DocumentMoniker": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\class_for_unity_task.csproj",
+              "RelativeDocumentMoniker": "class_for_unity_task\\class_for_unity_task.csproj",
+              "ToolTip": "C:\\Users\\ankuz\\OneDrive\\Desktop\\KuznetsovA_GUN43_GUNPC\\class_for_unity_task\\class_for_unity_task\\class_for_unity_task.csproj",
+              "RelativeToolTip": "class_for_unity_task\\class_for_unity_task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T10:29:15.376Z",
               "EditorCaption": ""
             }
           ]

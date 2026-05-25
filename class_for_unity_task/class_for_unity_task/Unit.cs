@@ -5,25 +5,40 @@ namespace class_for_unity_task
     public class Unit
     {
         private float _health;
+        private Interval _damageRange;
 
-        public string Name { get; }
+        public string Name { get; private set; }
         public float Health => _health;
-        public int Damage { get; } = 5;
-        public float Armor { get; } = 0.6f;
+        public float Armor { get; private set; } = 0.6f;
 
-        public Unit() : this("Unknown Unit")
+        public float Damage => _damageRange.Get();
+
+        public Unit()
         {
+            Name = "Unknown Unit";
+            _health = 100f;
+            _damageRange = new Interval(0, 5);
         }
 
         public Unit(string name)
         {
             Name = name;
             _health = 100f;
+            _damageRange = new Interval(0, 5);
         }
 
-        public Unit(string name, float health) : this(name)
+        public Unit(string name, float health)
         {
+            Name = name;
             _health = health;
+            _damageRange = new Interval(0, 5);
+        }
+
+        public Unit(string name, float health, int minDamage, int maxDamage)
+        {
+            Name = name;
+            _health = health;
+            _damageRange = new Interval(minDamage, maxDamage);
         }
 
         public float GetRealHealth()
