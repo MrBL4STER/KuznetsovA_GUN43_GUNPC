@@ -13,7 +13,7 @@ namespace GamePrototype.Items
 
         public string Name { get; }
 
-        protected Item(string name) 
+        protected Item(string name)
         {
             Name = name;
             Amount = 1;
@@ -27,6 +27,16 @@ namespace GamePrototype.Items
             }
             Amount++;
             return true;
+        }
+
+        public bool TryDecreaseAmount()
+        {
+            if (Amount > 1)
+            {
+                Amount--;
+                return true;
+            }
+            return false;
         }
     }
 }

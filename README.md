@@ -1,2 +1,2 @@
 # Change
-add GamePrototype folder
+change GamePrototype folder

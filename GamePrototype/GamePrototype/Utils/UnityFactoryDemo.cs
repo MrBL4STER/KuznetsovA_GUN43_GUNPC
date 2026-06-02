@@ -10,7 +10,6 @@ namespace GamePrototype.Utils
         {
             var player = new Player(name, 30, 30, 6);
 
-            // Создаём предметы с прочностью
             var sword = new Weapon(10, 15, "Iron Sword");
             var armour = new Armour(15, 20, "Leather Armour");
             var helmet = new Helmet(10, 15, "Iron Helmet");
@@ -24,7 +23,6 @@ namespace GamePrototype.Utils
             player.AddItemToInventory(bow);
             player.AddItemToInventory(grindstone);
             player.AddItemToInventory(healthPotion);
-            player.AddItemToInventory(grindstone);
 
             return player;
         }

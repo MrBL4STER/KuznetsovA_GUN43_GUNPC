@@ -1,5 +1,7 @@
-﻿using GamePrototype.Combat;
+﻿using GamePrototype.Builders;
+using GamePrototype.Combat;
 using GamePrototype.Dungeon;
+using GamePrototype.Factories;
 using GamePrototype.Items.EconomicItems;
 using GamePrototype.Units;
 using GamePrototype.Utils;
@@ -11,6 +13,7 @@ namespace GamePrototype.Game
         private Unit _player;
         private DungeonRoom _dungeon;
         private readonly CombatManager _combatManager = new CombatManager();
+        private Difficulty _difficulty;
 
         public void StartGame()
         {
@@ -24,10 +27,49 @@ namespace GamePrototype.Game
         private void Initialize()
         {
             Console.WriteLine("Welcome, player!");
-            _dungeon = DungeonBuilder.BuildDungeon();
+
+            ChooseDifficulty();
+
+            IUnitFactory unitFactory = _difficulty == Difficulty.Easy
+                ? new EasyUnitFactory()
+                : new HardUnitFactory();
+
+            DungeonBuilder dungeonBuilder = _difficulty == Difficulty.Easy
+                ? new EasyDungeonBuilder(unitFactory)
+                : new HardDungeonBuilder(unitFactory);
+
+            DungeonDirector director = new DungeonDirector(dungeonBuilder);
+            _dungeon = director.ConstructDungeon();
+
             Console.WriteLine("Enter your name");
-            _player = UnityFactoryDemo.CreatePlayer(Console.ReadLine());
+            _player = unitFactory.CreatePlayer(Console.ReadLine());
             Console.WriteLine($"Hello {_player.Name}");
+            Console.WriteLine($"Difficulty: {_difficulty}");
+
+            if (_player is Player player)
+            {
+                player.ShowEquipment();
+            }
+        }
+
+        private void ChooseDifficulty()
+        {
+            Console.WriteLine("Choose difficulty:");
+            Console.WriteLine("1 - Easy");
+            Console.WriteLine("2 - Hard");
+
+            var input = Console.ReadLine();
+
+            if (input == "1")
+            {
+                _difficulty = Difficulty.Easy;
+                Console.WriteLine("Easy mode selected. You start with better equipment and weaker enemies.");
+            }
+            else
+            {
+                _difficulty = Difficulty.Hard;
+                Console.WriteLine("Hard mode selected. You start with weaker equipment and stronger enemies.");
+            }
         }
 
         private void StartGameLoop()
@@ -67,6 +109,7 @@ namespace GamePrototype.Game
             if (currentRoom.Loot != null)
             {
                 _player.AddItemToInventory(currentRoom.Loot);
+                Console.WriteLine($"Found: {currentRoom.Loot.Name}");
             }
             if (currentRoom.Enemy != null)
             {

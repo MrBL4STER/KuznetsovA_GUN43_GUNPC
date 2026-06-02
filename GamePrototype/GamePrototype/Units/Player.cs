@@ -81,7 +81,7 @@ namespace GamePrototype.Units
 
         public override void HandleCombatComplete()
         {
-            var items = Inventory.Items;
+            var items = GetInventoryItems();
             for (int i = items.Count - 1; i >= 0; i--)
             {
                 if (items[i] is EconomicItem economicItem)
@@ -91,7 +91,7 @@ namespace GamePrototype.Units
                         continue;
                     }
                     UseEconomicItem(economicItem);
-                    Inventory.TryRemove(items[i]);
+                    RemoveItemFromInventory(items[i]);
                 }
             }
         }
@@ -124,7 +124,7 @@ namespace GamePrototype.Units
 
         public bool UseGrindstone()
         {
-            var grindstone = Inventory.Items.OfType<Grindstone>().FirstOrDefault();
+            var grindstone = GetInventoryItems().OfType<Grindstone>().FirstOrDefault();
 
             if (grindstone == null)
             {
@@ -140,8 +140,11 @@ namespace GamePrototype.Units
 
             if (grindstone.UseOnWeapon(meleeWeapon))
             {
-                Inventory.TryRemove(grindstone);
-                Console.WriteLine($"Grindstone consumed and removed from inventory!");
+                if (!grindstone.TryDecreaseAmount())
+                {
+                    RemoveItemFromInventory(grindstone);
+                }
+                Console.WriteLine($"Grindstone used! {grindstone.Amount} remaining.");
                 return true;
             }
 
@@ -250,7 +253,7 @@ namespace GamePrototype.Units
                     string active = "";
                     if (slot == _activeWeaponSlot && (slot == EquipSlot.Weapon || slot == EquipSlot.RangeWeapon))
                     {
-                        active = "ACTIVE";
+                        active = " ACTIVE";
                     }
                     Console.WriteLine($"{slot,12}: {item.Name,-15} [{status}]{active}");
                 }
@@ -285,7 +288,7 @@ namespace GamePrototype.Units
                 }
             }
             builder.AppendLine("\nInventory:");
-            var items = Inventory.Items;
+            var items = GetInventoryItems();
             for (int i = 0; i < items.Count; i++)
             {
                 builder.AppendLine($"[{items[i].Name}] : {items[i].Amount}");
