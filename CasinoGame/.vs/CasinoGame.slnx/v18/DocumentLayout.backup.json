@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\CasinoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\core\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\core\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\games\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\games\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\core\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\core\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\core\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\core\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\games\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\games\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\services\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\services\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\services\\filesystemloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\services\\filesystemloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\models\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\models\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\exceptions\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\exceptions\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\models\\enums\\cardrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\models\\enums\\cardrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|d:\\vs\\casinogame\\casinogame\\models\\enums\\cardsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9118D0-1E83-47CA-BB20-D41DDCA2178C}|CasinoGame\\CasinoGame.csproj|solutionrelative:casinogame\\models\\enums\\cardsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiceGame.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Games\\DiceGame.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Games\\DiceGame.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Games\\DiceGame.cs",
+              "RelativeToolTip": "CasinoGame\\Games\\DiceGame.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:48:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackjackGame.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Games\\BlackjackGame.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Games\\BlackjackGame.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Games\\BlackjackGame.cs",
+              "RelativeToolTip": "CasinoGame\\Games\\BlackjackGame.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAkwAUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:48:01.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerProfile.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Core\\PlayerProfile.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Core\\PlayerProfile.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Core\\PlayerProfile.cs",
+              "RelativeToolTip": "CasinoGame\\Core\\PlayerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:46:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Core\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Core\\CasinoGameBase.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Core\\CasinoGameBase.cs",
+              "RelativeToolTip": "CasinoGame\\Core\\CasinoGameBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:47:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Core\\Casino.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Core\\Casino.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Core\\Casino.cs",
+              "RelativeToolTip": "CasinoGame\\Core\\Casino.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAGQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:46:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Program.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Program.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Program.cs",
+              "RelativeToolTip": "CasinoGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:44:01.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Services\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Services\\ISaveLoadService.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Services\\ISaveLoadService.cs",
+              "RelativeToolTip": "CasinoGame\\Services\\ISaveLoadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:54:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileSystemLoadService.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Services\\FileSystemLoadService.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Services\\FileSystemLoadService.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Services\\FileSystemLoadService.cs",
+              "RelativeToolTip": "CasinoGame\\Services\\FileSystemLoadService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:55:20.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Dice.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Models\\Dice.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Dice.cs",
+              "RelativeToolTip": "CasinoGame\\Models\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:49:13.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WrongDiceNumberException.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Exceptions\\WrongDiceNumberException.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Exceptions\\WrongDiceNumberException.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Exceptions\\WrongDiceNumberException.cs",
+              "RelativeToolTip": "CasinoGame\\Exceptions\\WrongDiceNumberException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:56:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Models\\Card.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Card.cs",
+              "RelativeToolTip": "CasinoGame\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:48:57.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardRank.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Enums\\CardRank.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Models\\Enums\\CardRank.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Enums\\CardRank.cs",
+              "RelativeToolTip": "CasinoGame\\Models\\Enums\\CardRank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:50:13.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardSuit.cs",
+              "DocumentMoniker": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Enums\\CardSuit.cs",
+              "RelativeDocumentMoniker": "CasinoGame\\Models\\Enums\\CardSuit.cs",
+              "ToolTip": "D:\\vs\\CasinoGame\\CasinoGame\\Models\\Enums\\CardSuit.cs",
+              "RelativeToolTip": "CasinoGame\\Models\\Enums\\CardSuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:49:57.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

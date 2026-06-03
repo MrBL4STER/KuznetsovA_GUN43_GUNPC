@@ -1,0 +1,14 @@
+D:\vs\CasinoGame\CasinoGame\bin\Debug\net10.0\CasinoGame.exe
+D:\vs\CasinoGame\CasinoGame\bin\Debug\net10.0\CasinoGame.deps.json
+D:\vs\CasinoGame\CasinoGame\bin\Debug\net10.0\CasinoGame.runtimeconfig.json
+D:\vs\CasinoGame\CasinoGame\bin\Debug\net10.0\CasinoGame.dll
+D:\vs\CasinoGame\CasinoGame\bin\Debug\net10.0\CasinoGame.pdb
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.AssemblyInfoInputs.cache
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.AssemblyInfo.cs
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.csproj.CoreCompileInputs.cache
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.dll
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\refint\CasinoGame.dll
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.pdb
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\CasinoGame.genruntimeconfig.cache
+D:\vs\CasinoGame\CasinoGame\obj\Debug\net10.0\ref\CasinoGame.dll
